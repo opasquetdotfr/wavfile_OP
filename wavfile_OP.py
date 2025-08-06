@@ -3,7 +3,7 @@
 # Previously from Joseph Ernest:
 # https://gist.github.com/josephernest/3f22c5ed5dabf1815f16efa8fa53d476
 # Also previously from  Raymond Radet:
-#https://github.com/X-Raym/wavfile.py
+# https://github.com/X-Raym/wavfile.py
 # Source: scipy/io/wavfile.py
 
 """
